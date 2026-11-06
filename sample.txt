@@ -1,0 +1,4 @@
+Hello Rust!
+This is my first file.
+I am learning Rust I/O.
+File handling is interesting.
